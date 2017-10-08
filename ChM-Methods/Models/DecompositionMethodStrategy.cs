@@ -23,7 +23,28 @@ namespace ChM_Methods.Models
 
         public Tuple<double, int> Evaluate(Func func)
         {
-            
+            double a = A;
+            double b = B;
+            int n = 0;
+            double c = 0;
+
+            while(Math.Abs(b - a) > Eps)
+            {
+                n++;
+
+                c = (a + b) / 2;
+
+                if(func.Evaluate(c)*func.Evaluate(a) >= 0)
+                {
+                    a = c;
+                }
+                else
+                {
+                    b = c;
+                }
+            }
+
+            return new Tuple<double, int>(c, n);
         }
     }
 }
