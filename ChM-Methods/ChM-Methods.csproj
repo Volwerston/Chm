@@ -74,10 +74,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\ChordMethodStrategy.cs" />
+    <Compile Include="Models\CombinedMethodStrategy.cs" />
     <Compile Include="Models\DecompositionMethodStrategy.cs" />
     <Compile Include="Models\Func.cs" />
     <Compile Include="Models\IMethodStrategy.cs" />
     <Compile Include="Models\MethodManager.cs" />
+    <Compile Include="Models\TangentMethodStrategy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

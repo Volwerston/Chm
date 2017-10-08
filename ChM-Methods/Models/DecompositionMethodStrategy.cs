@@ -34,7 +34,12 @@ namespace ChM_Methods.Models
 
                 c = (a + b) / 2;
 
-                if(func.Evaluate(c)*func.Evaluate(a) >= 0)
+
+                if(func.Evaluate(c) == 0)
+                {
+                    return new Tuple<double, int>(c, n);
+                }
+                else if(func.Evaluate(c)*func.Evaluate(a) > 0)
                 {
                     a = c;
                 }

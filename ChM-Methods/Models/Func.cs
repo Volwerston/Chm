@@ -27,15 +27,15 @@ namespace ChM_Methods.Models
         public double Evaluate(double arg)
         {
             Argument x = new Argument("x");
-            Argument y = new Argument("y = " + prototype, x);
+            Expression exp = new Expression(prototype, x);
             x.setArgumentValue(arg);
 
-            return y.getArgumentValue();
+            return exp.calculate();
         }
 
         public Func Derivative()
         {
-            Expression exp = new Expression("der(" + Prorotype + ")");
+            Expression exp = new Expression("der(" + Prorotype + ",x)");
             return new Func(exp.getExpressionString());
         }
     }

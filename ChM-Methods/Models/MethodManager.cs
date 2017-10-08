@@ -12,6 +12,8 @@ namespace ChM_Methods.Models
         {
             if (type == "Метод декомпозиції") return new DecompositionMethodStrategy(_a, _b, _eps);
             if (type == "Метод хорд") return new ChordMethodStrategy(_a, _b, _eps);
+            if (type == "Метод дотичних") return new TangentMethodStrategy(_a, _b, _eps);
+            if (type == "Метод хорд і дотичних") return new CombinedMethodStrategy(_a, _b, _eps);
 
             throw new Exception("Не знайдено підходящого методу");
         }
