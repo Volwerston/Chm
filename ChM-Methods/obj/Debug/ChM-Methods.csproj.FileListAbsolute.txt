@@ -1,0 +1,16 @@
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\bin\Debug\ChM-Methods.exe.config
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\bin\Debug\ChM-Methods.exe
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\bin\Debug\ChM-Methods.pdb
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods.csprojResolveAssemblyReference.cache
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\MainWindow.g.cs
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\App.g.cs
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods_MarkupCompile.cache
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods_MarkupCompile.lref
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\MainWindow.baml
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods.g.resources
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM_Methods.Properties.Resources.resources
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods.csproj.GenerateResource.Cache
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods.exe
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods.pdb
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\bin\Debug\MathParser.org-mXparser.Net452.dll
+C:\Users\Юра\Desktop\InternetShop\ChM-Methods\ChM-Methods\obj\Debug\ChM-Methods_Content.g.cs
